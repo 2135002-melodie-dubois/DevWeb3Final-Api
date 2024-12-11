@@ -1,0 +1,129 @@
+{
+  "personnages": [
+    {
+      "nom":"Kirby",
+      "auteur":"HAL Laboratories",
+      "apparitions": [
+        {
+            "titre":"Kirby's Adventure",
+            "type_media":"Jeu Video",
+            "annee_sortie": 1993
+        },
+        {
+          "titre":"Kirby's Return To Dreamland",
+          "type_media":"Jeu Video",
+          "annee_sortie": 2011
+        },
+        {
+          "titre":"Super Smash Bros",
+          "type_media":"Jeu Video",
+          "annee_sortie": 1999
+        }
+      ],
+      "franchises": [
+          "Kirby",
+          "Super Smash Bros"
+        ],
+      "description":"Kirby.",
+      "personnage_principal": true,
+      "info_creation":{
+        "cree_par": "Mel"
+      }
+    },
+    {
+      "nom":"Roi Dadidou",
+      "auteur":"HAL Laboratories",
+      "apparitions": [
+        {
+          "titre":"Kirby's Adventure",
+          "type_media":"Jeu Video",
+          "annee_sortie": 1993
+        },
+        {
+            "titre":"Kirby's Return To Dreamland",
+            "type_media":"Jeu Video",
+            "annee_sortie": 2011
+        }
+      ],
+      "franchises": [
+          "Kirby"
+        ],
+      "description":"Le roi de Dreamland",
+      "personnage_principal": false,
+      "info_creation":{
+        "cree_par": "Mel"
+      }
+    },
+    {
+      "nom":"Mario",
+      "auteur":"Nintendo",
+      "apparitions": [
+        {
+            "titre":"Super Mario Bros",
+            "type_media":"Jeu Video",
+            "annee_sortie": 1985
+        },
+        {
+          "titre":"Super Smash Bros",
+          "type_media":"Jeu Video",
+          "annee_sortie": 1999
+        }
+      ],
+      "franchises": [
+          "Mario",
+          "Super Smash Bros"
+        ],
+      "personnage_principal": true,
+      "info_creation":{
+        "cree_par": "Mel"
+      }
+    },
+    {
+      "nom":"Hagrid",
+      "auteur":"J.K. Rowling",
+      "apparitions": [
+        {
+            "titre":"Harry Potter A l'ecole DEs Sorciers",
+            "type_media":"Livre",
+            "annee_sortie": 1997
+        }
+      ],
+      "franchises": [
+          "Harry Potter"
+        ],
+      "description":"",
+      "personnage_principal": false,
+      "info_creation":{
+        "cree_par": "Mel"
+      }
+    },
+    {
+      "nom":"Personnage Imaginaire",
+      "auteur":"Inconnu",
+      "apparitions": [
+        {
+          "titre":"Le Jeu",
+          "type_media":"Jeu Video",
+          "annee_sortie": 2024
+        },
+        {
+          "titre":"Le Livre",
+          "type_media":"Livre",
+          "annee_sortie": 2024
+        },
+        {
+            "titre":"La Piece De Theatre",
+            "type_media":"Autre",
+            "annee_sortie": 2024
+        }
+      ],
+      "franchises": [
+        ],
+      "description":"Un personnage cree par le pouvoir de l'imagination. Il n'existe pas :(",
+      "personnage_principal": true,
+      "info_creation":{
+        "cree_par": "Mel"
+      }
+    }
+  ]
+}
